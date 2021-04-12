@@ -14,6 +14,6 @@ for (var i = 1; i <= 100; i++){
 
 
 console.log(listaNum);
-document.getElementById("listaNum").innerHTML=listanNum;
+document.getElementById("listaNum").innerHTML=listaNum;
 
 
